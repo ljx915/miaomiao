@@ -1,0 +1,3 @@
+src/views/Mine/center.vue
+
+注释掉beforeRouterEnter，这样才能看到mine页面的内容（是一个后台管理系统）
