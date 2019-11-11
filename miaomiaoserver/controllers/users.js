@@ -101,7 +101,7 @@ var verify = async (req,res,next)=>{
 	req.session.time = Email.time;
 
 	var mailOptions = {
-	    from: '喵喵网 new666@qq.com',
+	    from: '深圳影院 1293964560@qq.com',
 	    to: email,
 	    subject: '喵喵网邮箱验证码',
 	    text: '验证码：' + verify
